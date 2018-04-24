@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{89D11CEA-1E2F-4CBE-BF50-36F05523136A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatchSDK", "..\..\..\Downloads\latch-sdk-dotnet-master\latch-sdk-dotnet-master\LatchSDK.csproj", "{251D2DB5-3BD6-45BD-9704-CE7167627786}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LatchMembership", "..\..\..\Downloads\latch-plugin-dotnet-membership-provider-master\LatchMembership\LatchMembership.csproj", "{167E805E-FA7A-453C-AC1B-159C2F8FB1F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D11CEA-1E2F-4CBE-BF50-36F05523136A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D11CEA-1E2F-4CBE-BF50-36F05523136A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D11CEA-1E2F-4CBE-BF50-36F05523136A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D11CEA-1E2F-4CBE-BF50-36F05523136A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{251D2DB5-3BD6-45BD-9704-CE7167627786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251D2DB5-3BD6-45BD-9704-CE7167627786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251D2DB5-3BD6-45BD-9704-CE7167627786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251D2DB5-3BD6-45BD-9704-CE7167627786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167E805E-FA7A-453C-AC1B-159C2F8FB1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167E805E-FA7A-453C-AC1B-159C2F8FB1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167E805E-FA7A-453C-AC1B-159C2F8FB1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167E805E-FA7A-453C-AC1B-159C2F8FB1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
